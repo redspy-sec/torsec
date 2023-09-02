@@ -36,35 +36,7 @@ start(){
 
 read -p " Enter your Name :" name
 
-echo "<html>
-<head>
-<title>welcome</title>
-  <link rel="icon" href="https://j.top4top.io/p_23842mzuu0.png">
-  <meta name="description" content="welcom to REDSPY">
- </head>
-<body bgcolor='black'>
-<center>
- <br>
-<div>
-<img src=" https://j.top4top.io/p_2384rvemm0.jpg" widht="400" height="400"><br>
-<h1> welcom $name </h1>
-    <div class="noise"></div>
-<div class="overlay"></div>
-<div class="terminal">
-  <h1>-----------------<span class="----------------">----</span></h1>
-  <p class="output">The page you are looking is hosting form tor network or using onion service </p>
-  <p class="output">if any </a>.Doubt ↓</p>
-  <p class="output">REDSPY TECH <a href="https://www.youtube.com/c/REDSPYTECH">SUBSCRIBE </a>.</p>
-  <p class="output">telegram<a href="https://t.me/joinchat/2GBDnRZmsS8xNjJl">join</a>.</p>
-  <p class="output">Happy Hacking......!.</p>
-  <p>​ </p>
-  <p>​ </p>
-  <footer>
-</footer>
-</div>
-<br><br>&#12300; <marquee height='23' width='30%' behavior='alternate' scrollamount='15'><font size="4" face="Shadows Into Light" color="#FF000F">----welcom---- </marquee> &#12301;<br><br><br><h2>&copy2017-2021 | Malayali </h2></div>
-</body>
-</html>" >index.html
+echo "" >index.html
 
 echo ""
 
