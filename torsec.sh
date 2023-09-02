@@ -45,31 +45,6 @@ echo "<html>
 <body bgcolor='black'>
 <center>
  <br>
-<style type="text/css"> 
-html{
- font-family:'Neucha';
- color:white;
- }
-.lagu{ 
-background:black;
- border:2px solid #FF000F;
- text-shadow:0px 0px 5px red;
- border-radius:13px;
- font-family:'Shadows Into Light';
- color:blue;
- font-size:18x; 
-font-weight:bold; 
-padding:3px 29px;
- text-decoration:none; 
-text-shadow:0px 0px 20px #FF000F;
- } 
- h1,h2{
-  color:white;
-  font-family:'Shadows Into Light';
-  text-shadow:0px 0px 6px #FF000F;
-  size:10pt;
-  }
-</style> 
 <div>
 <img src=" https://j.top4top.io/p_2384rvemm0.jpg" widht="400" height="400"><br>
 <h1> welcom $name </h1>
