@@ -20,23 +20,6 @@ echo -e '\e[1;33m\e[0m\e[1;31m   ██║   ╚██████╔╝██�
 echo -e '\e[1;33m\e[0m\e[1;31m   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝\e[0m'
 echo
 echo
-echo -e                           "code by VIJIL :) "
-echo
-echo
-echo -e "${white}[1]" "${red} start torsec"
-echo
-echo -e "${white}[2]" "${red} help"
-echo
-echo -e "${white}[3]" "${red} menu"
-echo
-echo -e "${white}[4]" "${red} exit"
-echo
-echo
-start(){
-
-read -p " Enter your Name :" name
-
-echo "" >index.html
 
 echo ""
 
