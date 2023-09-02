@@ -98,21 +98,3 @@ sleep 5
 done
 }
 
-read -p " Enter your option :" option
-if [[ $option == "1" ]]; then
-echo
-start
- elif [[ $option == "2" ]]; then
-echo "this tool only work termux "
- elif [[ $option == "3" ]]; then
-echo " menu"
- elif [[ $option == "4" ]]; then
-echo "exit"
-break
-exit
-
-else
-        echo ${R}"[*] Error, Select a option from the above list"
-        echo
-fi
-
